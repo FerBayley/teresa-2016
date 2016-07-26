@@ -45,7 +45,7 @@
   <section class="Contenedor">
     <section class="Contenedor-layout">
       <div class="Contenedor-derecho"><img src="public/images/bg.png" alt="Todos podemos cambiar" width="349" height="475" class="Contenedor-image">
-        <h2 class="Resaltado">Lic. Teresa Gonz&aacute;lez</h2>
+        <h2>Lic. Teresa Gonz&aacute;lez</h2>
       </div>
       <div class="Contenedor-izquierdo">
         <h1 class="Contenedor-titulo">Todos podemos cambiar</h1>
