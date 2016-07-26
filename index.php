@@ -45,15 +45,15 @@
   <section class="Contenedor">
     <section class="Contenedor-layout">
       <div class="Contenedor-derecho"><img src="public/images/bg.png" alt="Todos podemos cambiar" width="349" height="475" class="Contenedor-image">
-        <h2>Lic. Teresa Gonz&aacute;lez</h2>
+        <h2 class="Resaltado">Lic. Teresa Gonz&aacute;lez</h2>
       </div>
       <div class="Contenedor-izquierdo">
         <h1 class="Contenedor-titulo">Todos podemos cambiar</h1>
         <h2 class="Contenedor-subtitulo">Las mujeres que aman demasiado tambi&eacute;n sufren demasiado...</h2>
         <p class="Contenedor-textoDescripcion">Sabemos que la vida no es f&aacute;cil. Pero as&iacute; como a nuestro alrededor vemos gente que sufre y padece, vemos que otros resuelven los problemas de una manera m&aacute;s eficaz y consiguen &eacute;xitos y satisfacciones. </p><a href="http://www.amardemasiado.com.ar/ebook/todos-podemos-cambiar.pdf">
           
-          <a href="precompra.php">
-            <div class="Contenedor-callToAction">AR$19.90 | COMPRAR</div>       
+         <a href="precompra.php">
+            <!--<div class="Contenedor-callToAction">AR$19.90 | COMPRAR</div>-->
           </a>
         <h6 class="Contenedor-formatos">eBook disponible en versiones en PDF, ePub y Kindle</h6>
       </div>
@@ -94,7 +94,7 @@
       </ul>
     </section>
     <section class="Autor-col2"><img src="public/images/tapa.jpg" alt="Todos podemos cambiar" width="349" height="475" class="Autor-tapa">
-      <a href="precompra.php"><div class="Autor-precio">AR$19.90 | COMPRAR</div></a>
+     <!-- <a href="precompra.php"><div class="Autor-precio">AR$19.90 | COMPRAR</div></a> -->
     </section>
   </section>
   <section class="Logos-pasarelas">
