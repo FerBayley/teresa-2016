@@ -54,10 +54,11 @@
       <img src="public/images/logo-ml.png" alt="Logo Mercado pago">
     </div>
       <div class="Contenedor-columnas-ML">      
-         <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=189613559-cdc2c7e3-0a67-42d6-980e-17633140198a" name="MP-payButton" class='green-tr-m-rn-none'>COMPRAR LIBRO AR$9,99</a>
-              <script type="text/javascript">
-              (function(){function $MPBR_load(){window.$MPBR_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = ("https:"==document.location.protocol?"https://www.mercadopago.com/org-img/jsapi/mptools/buttons/":"http://mp-tools.mlstatic.com/buttons/")+"render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPBR_loaded = true;})();}window.$MPBR_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPBR_load) : window.addEventListener('load', $MPBR_load, false)) : null;})();
-              </script>
+        
+        <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=189613559-cb3767a2-30b3-4f71-b08c-5cd2d4f222ed" name="MP-payButton" class='orange-ar-l-rn-none'>COMPRAR LIBRO AR$19,90</a>
+          <script type="text/javascript">
+          (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+          </script>
         <h6>Comprar dentro de Argentina</h6>
         <p class="Precompra">Compras seguras atraves de la pasarela de pagos proporcionada por Mercado Pago.</p>
       </div>
