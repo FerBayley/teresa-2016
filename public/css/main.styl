@@ -12,7 +12,8 @@ body
 	
 a
 	text-decoration none
-
+.Main-Container
+	width auto
 .Contenedor
 	/*background #260c52*/
 	background-image url('../../public/images/bg-blur.png')
@@ -22,9 +23,10 @@ a
 	display flex
 	height 620px
 	&-derecho
+		/* border solid 5px blue */
 		color blanco
 		display inline-block
-		margin 1em 0 0 0
+		margin 1em 1em 0 0
 		vertical-align top
 		width 40%
 		h2
@@ -357,8 +359,10 @@ footer
 	padding .7em 0 .7em 0
 	width 70%
 .Contenedor-izquierdo 
-	padding 3em 1.5em 1.5em 1.5em
+	/*border solid 10px red*/
+	padding 0 1em 0 1em
 	line-height 1.7em
+	width 450px
 .Contenedor-titulo
 	font-size 2.1em
 	font-weight 100
@@ -366,3 +370,18 @@ footer
 .Contenedor-subtitulo
 	font-size 1em
 	line-height 1.5em
+	
+
+@media screen and (max-width: 800px)
+	.Main-Container
+		border solid 10px red
+	.Contenedor
+		height auto
+	.Contenedor-derecho
+		border solid peru 5px 
+		width auto
+	.Contenedor-izquierdo
+		height auto
+		padding 0 1em 1em 1em
+		width auto
+

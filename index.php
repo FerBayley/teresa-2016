@@ -41,7 +41,7 @@
 </head>
 <body>
 
-
+<section class="Main-Container">
   <section class="Contenedor">
     <section class="Contenedor-layout">
       <div class="Contenedor-derecho"><img src="public/images/bg.png" alt="Todos podemos cambiar" width="349" height="475" class="Contenedor-image">
@@ -113,4 +113,5 @@
        Todos los derechos reservados &copy;2015 / www.teresagonzalez.com.ar / 
        <a href="mailto:tpc@teresagonzalez.com.ar">tpc@teresagonzalez.com.ar</a> / <a href="mailto:info@teresagonzalez.com.ar">info@teresagonzalez.com.ar</a>
     </footer>
+</section> <!--/Main-Container -->
 </body>
